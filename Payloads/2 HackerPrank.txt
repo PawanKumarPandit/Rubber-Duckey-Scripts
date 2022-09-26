@@ -1,0 +1,9 @@
+DELAY 1000
+GUI r
+DELAY 200
+STRING msedge https://pranx.com/hacker/
+ENTER
+DELAY 200
+ALT F11
+DELAY 10000
+ALT F4

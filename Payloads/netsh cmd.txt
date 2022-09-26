@@ -1,0 +1,7 @@
+DELAY 100
+GUI r 
+DELAY 200
+STRING CMD
+ENTER
+DELAY 200 
+STRING color 2 & netsh wlan show networks mode=bssid

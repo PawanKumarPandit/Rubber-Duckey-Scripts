@@ -1,0 +1,7 @@
+DELAY 1000
+GUI r
+DELAY 200
+STRING msedge https://updatefaker.com/windows10/index.html
+ENTER
+DELAY 100
+ALT F11
